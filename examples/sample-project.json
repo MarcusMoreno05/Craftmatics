@@ -1,0 +1,10 @@
+{
+  "id": "project1",
+  "title": "Home",
+  "slug": "index",
+  "theme": { "primary": "#0ea5a4", "font": "Inter" },
+  "layout": [
+    { "type": "hero", "id": "c1", "props": { "title": "Welcome", "bg": "https://picsum.photos/1200/400" } },
+    { "type": "text", "id": "c2", "props": { "text": "Hello world" } }
+  ]
+}
